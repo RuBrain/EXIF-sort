@@ -17,4 +17,4 @@ Put to "destination" your destination folder path.
 
 Push "run"
 
-!!! needs to install "pillow" module by command: pip install pillow
+!!! needs to install "pillow" module by command: pip install pillow.
